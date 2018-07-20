@@ -41,6 +41,7 @@ public class MyFirstSwingGUI {
 		//13. Re-pack the JFrame object.
 		
 		//14. Run the program one more time. Do you see the image?
+
 	}
 	
 	public static ImageIcon loadImage(){
